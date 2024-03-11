@@ -1,0 +1,36 @@
+- title: "ModHE: Modular Homomorphic Encryption Using Module Lattices: Potentials and Limitations
+"
+  authors: Anisha Mukherjee, Aikata Aikata, Ahmet Can Mert, Yongwoo Lee, Sunmin Kwon, Maxim Deryabin, Sujoy Sinha Roy
+  link:
+    url: https://tches.iacr.org/index.php/TCHES/article/view/11261
+    display: CHES, 2024
+
+- title: "Efficient FHEW bootstrapping with small evaluation keys, and applications to threshold homomorphic encryption"
+  authors: Yongwoo Lee, Daniele Micciancio, Andrey Kim, Rakyong Choi, Maxim Deryabin, Jieun Eom, and Donghoon Yoo
+  link:
+    url: https://eprint.iacr.org/2022/198
+    display: Eurocrypt, 2023
+
+- title: "Medha: Microcoded hardware accelerator for computing on encrypted data"
+  authors: Ahmet Can Mert, Aikata, Sunmin Kwon, Youngsam Shin, Donghoon Yoo, Yongwoo Lee, and Sujoy Sinha Roy
+  link:
+    url: https://tches.iacr.org/index.php/TCHES/article/view/9959
+    display: CHES, 2023
+
+- title: "OpenFHE: Open-source fully homomorphic encryption library"
+  authors: Ahmad Al Badawi, Jack Bates, Flavio Bergamaschi, David Bruce Cousins, Saroja Erabelli, Nicholas Genise, Shai Halevi, Hamish Hunt, Andrey Kim, Yongwoo Lee, Zeyu Liu, Daniele Micciancio, Ian Quah, Yuriy Polyakov, Saraswathy R.V., Kurt Rohloff, Jonathan Saylor, Dmitriy Suponitsky, Matthew Triplett, Vinod Vaikuntanathan, and Vincent Zucca
+  link:
+    url: https://eprint.iacr.org/2022/915
+    display: WAHC, 2022
+
+- title: "High-precision bootstrapping for approximate homomorphic encryption by error variance minimization"
+  authors: Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Yongjune Kim, Jong-Seon No, and HyungChul Kang
+  link:
+    url: https://eprint.iacr.org/2020/1549
+    display: EUROCRYPT, 2022
+
+- title: "High-precision bootstrapping of RNS-CKKS homomorphic encryption using optimal minimax polynomial approximation and inverse sine function"
+  authors: "Joon-Woo Lee, Eunsang Lee, Yongwoo Lee, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://eprint.iacr.org/2020/1549"
+    display: "EUROCRYPT, 2021"

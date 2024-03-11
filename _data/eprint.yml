@@ -1,0 +1,13 @@
+- title: "Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption
+"
+  authors: Heewon Chung, Hyojun Kim, Young-Sik Kim, Yongwoo Lee
+  link:
+    url: https://eprint.iacr.org/2024/274
+    display: Cryptology ePrint Archive, 2024
+
+- title: "LFHE: Fully homomorphic encryption with bootstrapping key size less than a megabyte
+"
+  authors: Andrey Kim, Yongwoo Lee, Maxim Deryabin, Jieun Eom, Rakyong Choi
+  link:
+    url: https://eprint.iacr.org/2023/767
+    display: Cryptology ePrint Archive, 2023

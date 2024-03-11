@@ -1,0 +1,47 @@
+- title: "General bootstrapping approach for RLWE-based homomorphic encryption"
+  authors: "Andrey Kim, Maxim Deryabin, Jieun Eom, Rakyong Choi, Yongwoo Lee, Whan Ghang, Donghoon Yoo"
+  link:
+    url: "https://www.computer.org/csdl/journal/tc/2024/01/10261340/1QEx9CKzhRu"
+    display: "IEEE Trans. on Computers, 2024"
+
+- title: "Privacy-preserving machine learning with fully homomorphic encryption for deep neural network"
+  authors: "Joon-Woo Lee, HyungChul Kang, Yongwoo Lee, Woosuk Choi, Jieun Eom, Maxim Deryabin, Eunsang Lee, Junghyun Lee, Donghoon Yoo, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/9734024"
+    display: "IEEE Access, 2022"
+
+- title: "Iterative coding scheme satisfying GC balance and run-length constraints for DNA storage with robustness to error propagation"
+  authors: "Seong-Joon Park, Yongwoo Lee*, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/9755094"
+    display: "Journal of Communications and Networks, 2022"
+
+- title: "Improved reduction between SIS problems over structured lattices"
+  authors: "Zahyun Koo, Yongwoo Lee, Joon-Woo Lee, Jong-Seon No, Young-Sik Kim"
+  link:
+    url: "https://ieeexplore.ieee.org/abstract/document/9615083"
+    display: "IEEE Access, 2021"
+
+- title: "Cryptanalysis of the Ivanov-Kabatiansky-Krouk-Rumenko cryptosystems"
+  authors: "Yongwoo Lee, Jinkyu Cho, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/9175031"
+    display: "IEEE Communications Letters, 2020"
+
+- title: "Modified pqsigRM: RM code-based signature scheme"
+  authors: "Yongwoo Lee, Wijik Lee, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/9206580"
+    display: "IEEE Access, 2020"
+
+- title: "Near-optimal polynomial for modulus reduction using L2-norm for approximate homomorphic encryption"
+  authors: "Yongwoo Lee, Joon-Woo Lee, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/9159551"
+    display: "IEEE Access, 2020"
+
+- title: "Ciphertext-only attack on linear feedback shift register-based Esmaeili-Gulliver cryptosystem"
+  authors: "Yongwoo Lee, Young-Sik Kim, Jong-Seon No"
+  link:
+    url: "https://ieeexplore.ieee.org/document/7820159"
+    display: "IEEE Communications Letters, 2017"
