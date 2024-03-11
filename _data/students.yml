@@ -8,4 +8,58 @@
 #  education3:
 #  education4:
 
+- name:  DeokHwa Hong(홍덕화)
+  photo: bio-photo.jpg
+  info: Research interest - Homomorphic encryption
+  email: 12191837@inha.edu
+  number_educ: 2
+  education1: Dept. of ICE, Inha University, started 2019
+  education2: Contributor of <a href="https://www.openfhe.org/">OpenFHE Project</a>
+  education3:
+
+- name:  Heesoo Lee(이희수)
+  photo: bio-photo.jpg
+  info: Research interest - Privacy-preserving ML
+  email: fromhslee@inha.edu
+  number_educ: 1
+  education1: Dept. of ICE, Inha University, started 2021
+  education2: 
+  education3:
+
+- name:  Heesoo Lee(최영진)
+  photo: bio-photo.jpg
+  info: Research interest - Homomorphic Encryption
+  email: yj160727@inha.edu
+  number_educ: 1
+  education1: Dept. of ICE, Inha University, started 2019
+  education2: 
+  education3:
+
+- name:  Minji Kim(김민지)
+  photo: minji.jpg
+  info: Research interest - Searchable Encryption
+  email: mjaj0917@inha.edu
+  number_educ: 1
+  education1: Dept. of ICE, Inha University, started 2021
+  education2: 
+  education3:
+
+
+- name:  Heesoo Lee(하재현)
+  photo: bio-photo.jpg
+  info: Research interest - 
+  email: gkwogus20@inha.edu
+  number_educ: 1
+  education1: Dept. of ICE, Inha University, started 2021
+  education2: 
+  education3:
+
+- name: "This could be you !"
+  photo: smilyface.png
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: yongwoo@inha.ac.kr
+  number_educ: 0
+  education1:
+  education2:
+  education3:
 

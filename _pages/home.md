@@ -42,11 +42,13 @@ permalink: /
 암호 연구실은 [인하대학교](https://www.inha.ac.kr/) [전기컴퓨터공학과](https://inhaece.co.kr/) 및 [인공지능융합연구센터](https://aix.inha.ac.kr/)의 연구실입니다. 
 우리 연구실에서는 동형암호, 포스트양자암호, 영지식 증명 등 개인정보를 보호하기 위한 다양한 암호 기술을 연구합니다.
 
+ **안전하고 편리한 세상을 만드는 기술에 관심이 있는 박사, 석사, 학부연구생을 모집합니다** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+
 연구실은 인하대학교 하이테크관 315호에 위치해 있습니다.(see [Maps](https://maps.app.goo.gl/VgDGDHbpqtqrDfmt5)). 
 
 <!-- We are grateful for funding from Inha University, and [AIGS](https://aix.inha.ac.kr/) . -->
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
