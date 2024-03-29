@@ -59,16 +59,17 @@ permalink: /team/
   {% endif %}
   </ul>
 
-  <strong>Professional Experience</strong>
+  <strong>Professional Experiences</strong>
 
   <ul style="overflow: hidden">
 
   {% if member.number_exp == 1 %}
-  <li> {{ member.experience1 }} </li>
+  <li>
+    <span style="display: inline-block; width: 10ch;"> <strong>{{ member.experience_date1 }}</strong></span> {{ member.experience1}}
+  </li>
   {% endif %}
 
   {% if member.number_exp == 2 %}
-  
   <li> 
   <span style="display: inline-block; width: 10ch;"> <strong>{{ member.experience_date1 }}</strong></span> {{ member.experience1}}
   </li>
@@ -76,29 +77,7 @@ permalink: /team/
     <span style="display: inline-block; width: 10ch;"><strong>{{ member.experience_date2 }}</strong></span> {{ member.experience2}} 
   </li>
   {% endif %}
-
-  {% if member.number_exp == 3 %}
-  <li> {{ member.experience1 }} </li>
-  <li> {{ member.experience2 }} </li>
-  <li> {{ member.experience3 }} </li>
-  {% endif %}
-
-  {% if member.number_exp == 4 %}
-  <li> {{ member.experience1 }} </li>
-  <li> {{ member.experience2 }} </li>
-  <li> {{ member.experience3 }} </li>
-  <li> {{ member.experience4 }} </li>
-  {% endif %}
-
-  {% if member.number_exp == 5 %}
-  <li> {{ member.experience1 }} </li>
-  <li> {{ member.experience2 }} </li>
-  <li> {{ member.experience3 }} </li>
-  <li> {{ member.experience4 }} </li>
-  <li> {{ member.experience5 }} </li>
-  {% endif %}
   </ul>
-
 
   </div>
 
