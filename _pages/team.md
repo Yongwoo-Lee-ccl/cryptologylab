@@ -18,11 +18,15 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+<div class="col-sm-10 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+
+  <strong>Education</strong>
+
   <ul style="overflow: hidden">
+
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -53,9 +57,50 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
   </ul>
-</div>
+
+  <strong>Professional Experience</strong>
+
+  <ul style="overflow: hidden">
+
+  {% if member.number_exp == 1 %}
+  <li> {{ member.experience1 }} </li>
+  {% endif %}
+
+  {% if member.number_exp == 2 %}
+  
+  <li> 
+  <span style="display: inline-block; width: 10ch;"> <strong>{{ member.experience_date1 }}</strong></span> {{ member.experience1}}
+  </li>
+  <li> 
+    <span style="display: inline-block; width: 10ch;"><strong>{{ member.experience_date2 }}</strong></span> {{ member.experience2}} 
+  </li>
+  {% endif %}
+
+  {% if member.number_exp == 3 %}
+  <li> {{ member.experience1 }} </li>
+  <li> {{ member.experience2 }} </li>
+  <li> {{ member.experience3 }} </li>
+  {% endif %}
+
+  {% if member.number_exp == 4 %}
+  <li> {{ member.experience1 }} </li>
+  <li> {{ member.experience2 }} </li>
+  <li> {{ member.experience3 }} </li>
+  <li> {{ member.experience4 }} </li>
+  {% endif %}
+
+  {% if member.number_exp == 5 %}
+  <li> {{ member.experience1 }} </li>
+  <li> {{ member.experience2 }} </li>
+  <li> {{ member.experience3 }} </li>
+  <li> {{ member.experience4 }} </li>
+  <li> {{ member.experience5 }} </li>
+  {% endif %}
+  </ul>
+
+
+  </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
