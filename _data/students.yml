@@ -9,7 +9,7 @@
 #  education4:
 
 - name:  DeokHwa Hong(홍덕화)
-  photo: bio-photo.jpg
+  photo: deokhwa.jpg
   info: Research interest - Homomorphic encryption
   email: 12191837@inha.edu
   number_educ: 2
@@ -62,10 +62,10 @@
   education2: 
   education3:
 
-- name: 권기욱
-  photo: bio-photo.jpg
+- name: Giuk Kwon (권기욱)
+  photo: giuk.jpg
   info: Research interest - Homomorphic encryption
-  email: 
+  email: gungiugi12191923@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2019
   education2: 
