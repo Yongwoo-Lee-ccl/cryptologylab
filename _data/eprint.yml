@@ -1,3 +1,10 @@
+- title: "A New Fine Tuning Method for FHEW/TFHE Bootstrapping with IND-CPAD Security
+"
+  authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, Eunyoung Seo
+  link:
+    url: https://eprint.iacr.org/2024/1052
+    display: Cryptology ePrint Archive, 2024
+
 - title: "Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption
 "
   authors: Heewon Chung, Hyojun Kim, Young-Sik Kim, Yongwoo Lee
