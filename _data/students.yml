@@ -44,19 +44,19 @@
   education2: 
   education3:
 
-- name: 최인혁
+- name: Inhyuck Choi(최인혁)
   photo: bio-photo.jpg
   info: Research interest - Homomorphic encryption
-  email: 
+  email: c991123@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2018
   education2: 
   education3:
 
 - name: JaeMin Kim(김재민)
-  photo: bio-photo.jpg
+  photo: jaemin.png
   info: Research interest - Homomorphic encryption
-  email: jaemin.png
+  email: woals424@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2019
   education2: 
