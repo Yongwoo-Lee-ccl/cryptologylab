@@ -5,13 +5,6 @@
     url: https://eprint.iacr.org/2024/1729
     display: Cryptology ePrint Archive, 2024
 
-- title: "Overlapped Bootstrapping for FHEW/TFHE and Its Application to SHA3
-"
-  authors: Deokhwa Hong, Youngjin Choi, Yongwoo Lee, Young-Sik Kim
-  link:
-    url: https://eprint.iacr.org/2024/1667
-    display: Cryptology ePrint Archive, 2024
-
 - title: "A New Fine Tuning Method for FHEW/TFHE Bootstrapping with IND-CPAD Security
 "
   authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, Eunyoung Seo
