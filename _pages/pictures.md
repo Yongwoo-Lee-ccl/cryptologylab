@@ -23,6 +23,11 @@ permalink: /pictures/
 
 
 ## Gallery
+#### KICS 2025 Winter ####
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics25_00.jpg" width="60%">
+</figure>
+
 #### KICS 2024 Summer ####
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics24_01.jpg" width="60%">
