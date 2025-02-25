@@ -35,6 +35,15 @@
   education2: B.S., Dept. of ICE, Inha University, 2025
   education3:
 
+- name: Inhyuck Choi(최인혁)
+  photo: bio-photo.jpg
+  info: Research interest - Homomorphic encryption
+  email: c991123@inha.edu
+  number_educ: 1
+  education1: Dept. of ICE, Inha University, started 2018
+  education2: 
+  education3:
+
 - name:  Youngjin Choi(최영진)
   photo: youngjin.jpg
   info: Research interest - Homomorphic Encryption
@@ -50,15 +59,6 @@
   email: mjaj0917@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2021
-  education2: 
-  education3:
-
-- name: Inhyuck Choi(최인혁)
-  photo: bio-photo.jpg
-  info: Research interest - Homomorphic encryption
-  email: c991123@inha.edu
-  number_educ: 1
-  education1: Dept. of ICE, Inha University, started 2018
   education2: 
   education3:
 
