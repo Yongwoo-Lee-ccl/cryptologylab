@@ -35,6 +35,15 @@
   education2: B.S., Dept. of ICE, Inha University, 2025
   education3:
 
+- name: JunHyung Park (박준형)
+  photo: bio-photo.jpg
+  info: Research interest - Homomorphic encryption
+  email: gspark0621@gmail.com
+  number_educ: 1
+  education1: B.S., Dept. of ICE, Inha University, 2025
+  education2: 
+  education3: 
+  
 - name: Inhyuck Choi(최인혁)
   photo: bio-photo.jpg
   info: Research interest - Homomorphic encryption
