@@ -17,15 +17,6 @@
   education2: B.S., Dept. of ICE, Inha University, 2024
   education3: Contributor of <a href="https://www.openfhe.org/">OpenFHE Project</a>
 
-- name: Giuk Kwon (권기욱)
-  photo: giuk.jpg
-  info: Research interest - Homomorphic encryption
-  email: gungiugi@inha.edu
-  number_educ: 2
-  education1: M.S., Dept. of ECE, Inha University, started Mar. 2025
-  education2: B.S., Dept. of ICE, Inha University, 2025
-  education3:
-
 - name:  Heesoo Lee(이희수)
   photo: heesoo.jpg
   info: Research interest - Privacy-preserving ML
@@ -68,24 +59,6 @@
   email: mjaj0917@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2021
-  education2: 
-  education3:
-
-- name: JaeMin Kim(김재민)
-  photo: jaemin.png
-  info: Research interest - Homomorphic encryption
-  email: woals424@inha.edu
-  number_educ: 1
-  education1: Dept. of ICE, Inha University, started 2019
-  education2: 
-  education3:
-
-- name: Jongseop Yeom (염종섭)
-  photo: jongseop.jpg
-  info: Research interest - Homomorphic encryption
-  email: bhs3435@inha.edu
-  number_educ: 1
-  education1: Dept. of ICE, Inha University, started 2019
   education2: 
   education3:
 
