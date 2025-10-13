@@ -1,3 +1,10 @@
+- title: "Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs
+"
+  authors: Deokhwa Hong, Yongwoo Lee
+  link:
+    url: https://eprint.iacr.org/2025/1892
+    display: Cryptology ePrint Archive, 2025
+    
 - title: "cuTraNTT: A Novel Transposed Number Theoretic Transform Targeting Low Latency Homomorphic Encryption for IoT Applications
 "
   authors: Supriya Adhikary, Wai Kong Lee, Angshuman Karmakar, Yongwoo Lee, Seong Oun Hwang, Ramachandra Achar
