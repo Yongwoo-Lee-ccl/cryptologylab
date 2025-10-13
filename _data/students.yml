@@ -26,15 +26,24 @@
   education2: B.S., Dept. of ICE, Inha University, 2025
   education3:
 
+- name:  Minji Kim(김민지)
+  photo: minji.jpg
+  info: Research interest - Post-quantum cryptography
+  email: mjaj0917@inha.edu
+  number_educ: 2
+  education1: M.S., Dept. of ECE, Inha University, started Mar. 2025
+  education2: Dept. of ICE, Inha University, 2025
+  education3:
+
 - name: JunHyung Park (박준형)
   photo: bio-photo.jpg
   info: Research interest - Homomorphic encryption
   email: gspark0621@gmail.com
-  number_educ: 1
-  education1: B.S., Dept. of ICE, Inha University, 2025
-  education2: 
+  number_educ: 2
+  education1: M.S., Dept. of ECE, Inha University, started Mar. 2025
+  education2: B.S., Dept. of ICE, Inha University, 2025
   education3: 
-  
+
 - name: Inhyuck Choi(최인혁)
   photo: bio-photo.jpg
   info: Research interest - Homomorphic encryption
@@ -46,19 +55,19 @@
 
 - name:  Youngjin Choi(최영진)
   photo: youngjin.jpg
-  info: Research interest - Homomorphic Encryption
+  info: Research interest - Homomorphic encryption
   email: yj160727@inha.edu
   number_educ: 1
   education1: Dept. of ICE, Inha University, started 2019
   education2: 
   education3:
 
-- name:  Minji Kim(김민지)
-  photo: minji.jpg
-  info: Research interest - Post-quantum cryptography
-  email: mjaj0917@inha.edu
+- name:  Hangil Lee(이한길)
+  photo: bio-photo.jpg
+  info: Research interest - Zero-knowledge proof
+  email: ekfekf4869@inha.edu
   number_educ: 1
-  education1: Dept. of ICE, Inha University, started 2021
+  education1: Dept. of AI, Inha University
   education2: 
   education3:
 
