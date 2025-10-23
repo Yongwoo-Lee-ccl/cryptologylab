@@ -1,3 +1,9 @@
+- title: "Fully Homomorphic Encryption for Matrix Arithmetic"
+  authors: Craig Gentry, Yongwoo Lee
+  link:
+    url: https://eprint.iacr.org/2025/1935
+    display: Cryptology ePrint Archive, 2025
+
 - title: "Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs
 "
   authors: Deokhwa Hong, Yongwoo Lee
