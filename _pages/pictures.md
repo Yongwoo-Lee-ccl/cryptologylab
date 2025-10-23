@@ -21,41 +21,40 @@ permalink: /pictures/
 
 #### Presentation @ KICS 2024 Summer ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics24_00.jpg" width="60%">
+<img src="{{ '/images/picpic/kics24_00.jpg' | relative_url }}" width="60%">
 </figure>
 
 
 ## Gallery
 #### KICS 2025 Summer ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics25_10.jpg" width="60%">
+<img src="{{ '/images/picpic/kics25_10.jpg' | relative_url }}" width="60%">
 </figure>
 
 #### FC 25 ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/fc25_01.jpg" width="60%">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/fc25_00.jpg" width="60%">
+<img src="{{ '/images/picpic/fc25_01.jpg' | relative_url }}" width="60%">
+<img src="{{ '/images/picpic/fc25_00.jpg' | relative_url }}" width="60%">
 </figure>
 
 #### KICS 2025 Winter ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics25_00.jpg" width="60%">
+<img src="{{ '/images/picpic/kics25_00.jpg' | relative_url }}" width="60%">
 </figure>
 
 #### 2024 통신신호연구회 ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/others24_00.jpg" width="60%">
+<img src="{{ '/images/picpic/others24_00.jpg' | relative_url }}" width="60%">
 </figure>
 
 
 #### KICS 2024 Summer ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics24_01.jpg" width="60%">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kics24_02.jpg" width="60%">
+<img src="{{ '/images/picpic/kics24_01.jpg' | relative_url }}" width="60%">
+<img src="{{ '/images/picpic/kics24_02.jpg' | relative_url }}" width="60%">
 </figure>
 
 #### Poster Presentation @ 5th NIST PQC Conference ####
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/nist25_00.jpg" width="60%">
+<img src="{{ '/images/picpic/nist25_00.jpg' | relative_url }}" width="60%">
 </figure>
-

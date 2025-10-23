@@ -22,13 +22,13 @@ permalink: /
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
       <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lfhe.png" alt="Slide 1" />
+          <img src="{{ '/images/slider7001400/lfhe.png' | relative_url }}" alt="Slide 1" />
       </div>
       <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/overlapped.png" alt="Slide 2" />
+          <img src="{{ '/images/slider7001400/overlapped.png' | relative_url }}" alt="Slide 2" />
       </div>
       <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ind-cpa.png" alt="Slide 3" />
+          <img src="{{ '/images/slider7001400/ind-cpa.png' | relative_url }}" alt="Slide 3" />
       </div>
   </div>
 
@@ -46,7 +46,7 @@ permalink: /
 암호 연구실은 [인하대학교](https://www.inha.ac.kr/) [전기컴퓨터공학과](https://inhaece.co.kr/) 및 [인공지능융합연구센터](https://aix.inha.ac.kr/)의 연구실입니다. 
 우리 연구실에서는 동형암호, 포스트양자암호, 전자투표, 영지식 증명 등 개인정보를 보호하기 위한 다양한 암호 기술을 연구합니다.
 
- **안전하고 편리한 세상을 만드는 기술에 관심이 있는 박사, 석사, 학부연구생을 모집합니다** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **안전하고 편리한 세상을 만드는 기술에 관심이 있는 박사, 석사, 학부연구생을 모집합니다** [(more info)]({{ '/openings' | relative_url }}) **!**
 
 
 연구실은 인하대학교 하이테크관 315호에 위치해 있습니다.(see [Maps](https://maps.app.goo.gl/VgDGDHbpqtqrDfmt5)). 
@@ -58,8 +58,8 @@ permalink: /
 
 
 <!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Inha.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ '/images/logopic/Logo_Inha.jpg' | relative_url }}" style="width: 210px">
+  <img src="{{ '/images/logopic/Logo_Nanofront.jpg' | relative_url }}" style="width: 110px">
+  <img src="{{ '/images/logopic/Logo_NWO.jpg' | relative_url }}" style="width: 120px">
+  <img src="{{ '/images/logopic/Logo_ERC.jpg' | relative_url }}" style="width: 110px">
 </figure> -->
