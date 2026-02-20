@@ -1,39 +1,40 @@
+- title: "Efficient Softmax Reformulation for Homomorphic Encryption via Moment Generating Function"
+  authors: Hanjun Park, Byeong-Seo Min, Jiheon Woo, Min-Wook Jeong, Jongho Shin, Yongwoo Lee, Young-Sik Kim, Yongjune Kim
+  link:
+    url: https://arxiv.org/abs/2602.01621
+    display: arXiv, 2025
+
 - title: "Fully Homomorphic Encryption for Matrix Arithmetic"
   authors: Craig Gentry, Yongwoo Lee
   link:
     url: https://eprint.iacr.org/2025/1935
     display: Cryptology ePrint Archive, 2025
 
-- title: "Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs
-"
+- title: "Optimizing FHEW-Like Homomorphic Encryption Schemes with Smooth Performance-Failure Trade-Offs"
   authors: Deokhwa Hong, Yongwoo Lee
   link:
     url: https://eprint.iacr.org/2025/1892
     display: Cryptology ePrint Archive, 2025
     
-- title: "cuTraNTT: A Novel Transposed Number Theoretic Transform Targeting Low Latency Homomorphic Encryption for IoT Applications
-"
+- title: "cuTraNTT: A Novel Transposed Number Theoretic Transform Targeting Low Latency Homomorphic Encryption for IoT Applications"
   authors: Supriya Adhikary, Wai Kong Lee, Angshuman Karmakar, Yongwoo Lee, Seong Oun Hwang, Ramachandra Achar
   link:
     url: https://eprint.iacr.org/2024/1729
     display: Cryptology ePrint Archive, 2024
 
-- title: "A New Fine Tuning Method for FHEW/TFHE Bootstrapping with IND-CPAD Security
-"
+- title: "A New Fine Tuning Method for FHEW/TFHE Bootstrapping with IND-CPAD Security"
   authors: Deokhwa Hong, Young-Sik Kim, Yongwoo Lee, Eunyoung Seo
   link:
     url: https://eprint.iacr.org/2024/1052
     display: Cryptology ePrint Archive, 2024
 
-- title: "Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption
-"
+- title: "Amortized Large Look-up Table Evaluation with Multivariate Polynomials for Homomorphic Encryption"
   authors: Heewon Chung, Hyojun Kim, Young-Sik Kim, Yongwoo Lee
   link:
     url: https://eprint.iacr.org/2024/274
     display: Cryptology ePrint Archive, 2024
 
-- title: "LFHE: Fully homomorphic encryption with bootstrapping key size less than a megabyte
-"
+- title: "LFHE: Fully homomorphic encryption with bootstrapping key size less than a megabyte"
   authors: Andrey Kim, Yongwoo Lee, Maxim Deryabin, Jieun Eom, Rakyong Choi
   link:
     url: https://eprint.iacr.org/2023/767
