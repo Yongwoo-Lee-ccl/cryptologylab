@@ -2,7 +2,13 @@
   authors: Hanjun Park, Byeong-Seo Min, Jiheon Woo, Min-Wook Jeong, Jongho Shin, Yongwoo Lee, Young-Sik Kim, Yongjune Kim
   link:
     url: https://arxiv.org/abs/2602.01621
-    display: arXiv, 2025
+    display: arXiv, 2026
+
+- title: "A White-Box Bootstrapping Approach for High Precision Comparison Over Homomorphic Encryption"
+  authors: Deokhwa Hong, Heesoo Lee, Young-Sik Kim, Yongwoo Lee 
+  link:
+    url: https://eprint.iacr.org/2026/418
+    display: Cryptology ePrint Archive, 2026
 
 - title: "Fully Homomorphic Encryption for Matrix Arithmetic"
   authors: Craig Gentry, Yongwoo Lee
