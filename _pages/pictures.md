@@ -26,12 +26,23 @@ permalink: /pictures/
 
 
 ## Gallery
+#### FHE.org 2026 at Taipei ####
+<figure>
+<img src="{{ '/images/picpic/fheorg26_00.jpg' | relative_url }}" width="60%">
+<img src="{{ '/images/picpic/fheorg26_01.jpg' | relative_url }}" width="60%">
+</figure>
+
+#### KICS 2026 Winter ####
+<figure>
+<img src="{{ '/images/picpic/kics26_00.jpg' | relative_url }}" width="60%">
+</figure>
+
 #### KICS 2025 Summer ####
 <figure>
 <img src="{{ '/images/picpic/kics25_10.jpg' | relative_url }}" width="60%">
 </figure>
 
-#### FC 25 ####
+#### FC 2025 at Miyakojima ####
 <figure>
 <img src="{{ '/images/picpic/fc25_01.jpg' | relative_url }}" width="60%">
 <img src="{{ '/images/picpic/fc25_00.jpg' | relative_url }}" width="60%">

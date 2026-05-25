@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-10 clearfix">
-  <img src="{{ '/images/teampic/' | append: member.photo | relative_url }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ '/images/teampic/' | append: member.photo | relative_url }}" class="img-responsive" width="18%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 
@@ -59,7 +59,7 @@ permalink: /team/
   {% endif %}
   </ul>
 
-  <strong>Professional Experiences</strong>
+  <strong>Professional Experience</strong>
 
   <ul style="overflow: hidden">
 
@@ -106,6 +106,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ '/images/teampic/' | append: member.photo | relative_url }}" class="img-responsive" width="25%" style="float: left" />
+  <div style="overflow: hidden">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}><br>Research interest: {{member.research_interest}}</i>
 
@@ -145,7 +146,7 @@ permalink: /team/
   {% endif %}
   </ul>
 
-  <strong>Professional Experiences</strong>
+  <strong>Professional Experience</strong>
 
   <ul style="overflow: hidden">
 
@@ -165,6 +166,7 @@ permalink: /team/
   {% endif %}
   </ul>
 
+  </div>
   </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

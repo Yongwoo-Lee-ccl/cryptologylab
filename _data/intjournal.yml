@@ -1,3 +1,9 @@
+- title: "Optimized layerwise approximation for efficient private inference on fully homomorphic encryption"
+  authors: "Junghyun Lee, Joon-Woo Lee, Eunsang Lee, Young-Sik Kim, Yongwoo Lee, Yongjune Kim, Jong-Seon No"
+  link:
+    url: "https://doi.org/10.1016/j.neucom.2026.134016"
+    display: "Neurocomputing, 2026"
+
 - title: "General bootstrapping approach for RLWE-based homomorphic encryption"
   authors: "Andrey Kim, Maxim Deryabin, Jieun Eom, Rakyong Choi, Yongwoo Lee, Whan Ghang, Donghoon Yoo"
   link:
