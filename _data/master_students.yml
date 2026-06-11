@@ -8,15 +8,6 @@
 #  education3:
 #  education4:
 
-- name:  DeokHwa Hong(홍덕화)
-  photo: deokhwa.jpg
-  info: Research interest - Homomorphic encryption
-  email: deokhwa@inha.edu
-  number_educ: 3
-  education1: M.S., Dept. of ECE, Inha University, Sep. 2024 - Current
-  education2: B.S., Dept. of ICE, Inha University, Feb. 2024
-  education3: Contributor of <a href="https://www.openfhe.org/">OpenFHE Project</a>
-
 - name:  Heesoo Lee(이희수)
   photo: heesoo.jpg
   info: Research interest - Privacy-preserving ML
@@ -58,7 +49,7 @@
   info: Research interest - Homomorphic encryption
   email: yj160727@inha.edu
   number_educ: 1
-  education1: Dept. of ICE, Inha University, 2019 - Current
+  education1: Dept. of ICE, Inha University, 2019 - Aug. 2026 (Expected)
   education2: 
   education3:
 
@@ -67,7 +58,7 @@
   info: Research interest - Zero-knowledge proof
   email: ekfekf4869@inha.edu
   number_educ: 1
-  education1: Dept. of AI, Inha University, 2022 - Current
+  education1: Dept. of AI, Inha University, 2022 - Aug. 2026 (Expected)
   education2: 
   education3:
 
@@ -76,15 +67,6 @@
   info: Research interest - Homomorphic encryption
   email: 12200568@inha.edu
   number_educ: 1
-  education1: Dept. of EEE, Inha University, 2020 - Current
+  education1: Dept. of EEE, Inha University, 2020 - Aug. 2026 (Expected)
   education2: 
-  education3:
-
-- name: "This could be you!"
-  photo: smilyface.png
-  info: See <a href="/vacancies">openings</a> for more info
-  email: yongwoo@inha.ac.kr
-  number_educ: 0
-  education1:
-  education2:
   education3:
