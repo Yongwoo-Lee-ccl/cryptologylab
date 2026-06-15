@@ -1,3 +1,9 @@
+- title: "cuTraNTT: A Novel Transposed Number Theoretic Transform Targeting Low Latency Homomorphic Encryption for IoT Applications"
+  authors: Supriya Adhikary, Wai Kong Lee, Angshuman Karmakar, Yongwoo Lee, Seong Oun Hwang, Ramachandra Achar
+  link:
+    url: https://eprint.iacr.org/2024/1729
+    display: "Cluster Computing (Accepted), 2026"
+
 - title: "Optimized layerwise approximation for efficient private inference on fully homomorphic encryption"
   authors: "Junghyun Lee, Joon-Woo Lee, Eunsang Lee, Young-Sik Kim, Yongwoo Lee, Yongjune Kim, Jong-Seon No"
   link:
